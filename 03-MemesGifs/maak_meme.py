@@ -36,7 +36,7 @@ tekst = "Zeggen dat je allergisch"
 
 # ZET HIER DE CODE MET DE BEREKENINGEN 
 
-tekengebied.multiline_text((525,800), tekst, font=lettertype, fill=(0,0,0))
+tekengebied.multiline_text((550,720), tekst, font=lettertype, fill=(0,0,0))
 
 
 # Derde Tekst
@@ -52,7 +52,7 @@ tekst = "voor noten bent "
 
 # ZET HIER DE CODE MET DE BEREKENINGEN 
 
-tekengebied.multiline_text((580,840), tekst, font=lettertype, fill=(0,0,0))
+tekengebied.multiline_text((605,760), tekst, font=lettertype, fill=(0,0,0))
 
 # Het resultaat tonen
 achtergrond.show()
