@@ -1,7 +1,6 @@
-## Beroepsproduct uitleg
+## Python-Flex uitleg
 
-Dit is mijn eerste schoolopdracht voor de opleiding Softwaredeveloper. 
-Het Mediacollege Amsterdam is mijn opdrachtgever. Alle code opdrachten zijn met Python gemaakt.
+Dit zijn mijn eerste schoolopdrachten voor het vak Python-Flex. Alle code opdrachten zijn met Python gemaakt.
 
 Ik vind het zelf moeilijke maar leuke opdrachten. 
 
